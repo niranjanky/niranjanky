@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **JQuery Javascript ASP.NET**
 
 - 📫 How to reach me **nknirala792@gmail.com**
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanky&theme=dracula" alt="niranjanky" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/red-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="red-dot" height="30" width="40" /></a>
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjanky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="niranjanky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjanky&show_icons=true&locale=en&theme=radical" alt="niranjanky" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=niranjanky&show_icons=true&locale=en&theme=radical" alt="niranjanky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanky&theme=dracula" alt="niranjanky" /></p>
+
 
