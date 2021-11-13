@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<h4 align="center">⚡ I don't like the person. who doesn't use Dark Theme when it's available ⚡</h4> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjanky&label=Profile%20views&color=0e75b6&style=flat" alt="niranjanky" /> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanky&theme=dracula" alt="niranjanky" /></p>
